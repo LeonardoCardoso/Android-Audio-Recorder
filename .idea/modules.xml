@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Audio Recorder/Audio Recorder.iml" filepath="$PROJECT_DIR$/Audio Recorder/Audio Recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-audio-recorder.iml" filepath="$PROJECT_DIR$/android-audio-recorder.iml" />
+    </modules>
+  </component>
+</project>
+
